@@ -73,10 +73,6 @@ public class HomePage {
 		verifyComingSoonText(expectedText2);
 	}
 	
-	public void homePromoStep() {
-		verifyLogo();
-		clickPromo();
-	}
 	
 	public void homeLogInStep() {
 		verifyLogo();
